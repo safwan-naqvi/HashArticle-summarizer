@@ -1,8 +1,22 @@
-# React + Vite
+# HashArticle Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Note: This is the first level app. A fully functional SaaS app is under development.**
 
-Currently, two official plugins are available:
+![App Screenshot](/path/to/screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About
+
+HashFusionX is a web application for article summarization, powered by AI. It's developed by Syed Safwan Abbas, the founder of HashBitStudio. This project uses the Article Summarization API from Rapid API to provide efficient and accurate article summaries.
+
+## Features
+
+- **Effortless Summarization**: Quickly generate concise summaries of articles.
+- **OpenAI GPT-4**: Utilizes the power of GPT-4 for accurate and meaningful summaries.
+- **Time Saver**: Save time and effort by getting to the core of articles effortlessly.
+
+## Installation and Usage
+
+1. Clone the repository:
+   ```shell
+   git clone https://github.com/your-username/hashfusionx.git
+   ```
