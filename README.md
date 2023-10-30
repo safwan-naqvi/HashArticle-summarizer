@@ -6,7 +6,7 @@
 
 ## About
 
-HashArticle Summarizer is a web application for article summarization, powered by AI. It's developed by Syed Safwan Abbas, the founder of [Link Text](https://hashbitstudio.com). This project uses the Article Summarization API from Rapid API to provide efficient and accurate article summaries.
+HashArticle Summarizer is a web application for article summarization, powered by AI. It's developed by Syed Safwan Abbas, the founder of [HashBitStudio](https://hashbitstudio.com). This project uses the Article Summarization API from Rapid API to provide efficient and accurate article summaries.
 
 ## Features
 
@@ -52,4 +52,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or inquiries, please contact Syed Safwan Abbas at [your-email@example.com](mailto:your-email@example.com).
+For questions or inquiries, please contact Syed Safwan Abbas at [safwan.naqvi@gmail.com](mailto:safwan.naqvi@gmail.com).
